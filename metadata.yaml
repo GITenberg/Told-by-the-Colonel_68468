@@ -1,0 +1,43 @@
+_repo: Told-by-the-Colonel_68468
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Hurst, Hal
+    birthdate: 1865
+    deathdate: 1938
+    gutenberg_agent_id: '9885'
+    url: http://www.gutenberg.org/2009/agents/9885
+  - agent_name: Jack, Richard
+    gutenberg_agent_id: '54786'
+    url: http://www.gutenberg.org/2009/agents/54786
+creator:
+  author:
+    agent_name: Alden, W. L. (William Livingston)
+    aliases:
+    - Alden, William Livingston
+    - Brown, Jimmy
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '34366'
+    url: http://www.gutenberg.org/2009/agents/34366
+    wikipedia: https://en.wikipedia.org/wiki/William_L._Alden
+description: ''
+gutenberg_issued: '2022-07-07'
+identifiers:
+  gutenberg: '68468'
+language: en
+pgterms:marc904: https://archive.org/details/toldbycolonel00aldeiala
+pgterms:marc905: 20210125171522alden
+pgterms:marc906: '1883'
+pgterms:marc907: US
+production_note: Richard Hulse and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :J. Selwin Tait & Sons,1883.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Told by the Colonel
+url: http://www.gutenberg.org/ebooks/68468
