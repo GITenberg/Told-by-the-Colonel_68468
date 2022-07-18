@@ -10,6 +10,9 @@ contributor:
   - agent_name: Jack, Richard
     gutenberg_agent_id: '54786'
     url: http://www.gutenberg.org/2009/agents/54786
+covers:
+- cover_type: archival
+  image_path: 68468-h/images/cover.jpg
 creator:
   author:
     agent_name: Alden, W. L. (William Livingston)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34366
     wikipedia: https://en.wikipedia.org/wiki/William_L._Alden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68468#Told-by-the-Colonel
 gutenberg_issued: '2022-07-07'
 identifiers:
   gutenberg: '68468'
